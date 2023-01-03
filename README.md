@@ -1,6 +1,6 @@
 
 
-# Purple
+# Test project
 
 This project was generated using [Nx](https://nx.dev).
 
